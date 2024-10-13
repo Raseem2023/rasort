@@ -1,0 +1,4 @@
+Flask==2.3.2
+SQLAlchemy==2.0.19
+pandas==2.1.0
+python-telegram-bot==20.1
